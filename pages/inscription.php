@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/style.css">
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
     <script crc="../bootstrap/js/bootstrap.bundle.min.js"></script>
     <title>incription</title>
@@ -23,7 +23,7 @@
                     <h2>votre mot de passe</h2>
                     <input type="password" name="password" placeholder="mdp">
                 </div>
-                
+
                 <div class="bouton">
                     <input type="submit" value="valider">
                 </div>          
