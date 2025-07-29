@@ -15,12 +15,12 @@
             <div class="title"><h1>login</h1></div>
                 <div>
                     <h2>Nom</h2>
-                    <input type="text" name="nom"placeholder="nom">
+                    <input type="text" name="nom"placeholder="nom" required>
                 </div>
 
                 <div>
                     <h2>votre mot de passe</h2>
-                    <input type="password" name="password" placeholder="mdp">
+                    <input type="password" name="password" placeholder="mdp" required>
                 </div>
                 
                 <div class="bouton">
