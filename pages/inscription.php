@@ -14,14 +14,16 @@
 
      <div class="form ">
             <form action="traitement/tinsc.php" method="post">
-                <div>
-                    <h2>votre mot de passe</h2>
-                    <input type="password" name="password" placeholder="mdp">
-                </div>
+               
                 <div>
                     <h2>Nom</h2>
                     <input type="text" name="nom"placeholder="nom">
                 </div>
+                <div>
+                    <h2>votre mot de passe</h2>
+                    <input type="password" name="password" placeholder="mdp">
+                </div>
+                
                 <div class="bouton">
                     <input type="submit" value="valider">
                 </div>          
