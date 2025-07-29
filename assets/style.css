@@ -74,3 +74,21 @@ a:hover {
   text-decoration: underline;
   color: #333;
 }
+.login-link {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .login-link a {
+    display: inline-block;
+    background-color: #f5d6f0;
+    color: #880c65;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.3s;
+    font-weight: 500;
+  }
+  
+  

@@ -26,11 +26,11 @@
 
                 <div class="bouton">
                     <input type="submit" value="valider">
-                </div>          
+                </div>    
+                <div class="login-link">
+            <a href="login.php">Login</a>
+        </div>      
             </form>
         </div>
-
-    </div>
-    <a href="login.php">login</a>
-</body>
+       
 </html>

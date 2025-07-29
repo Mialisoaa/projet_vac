@@ -25,12 +25,15 @@
                 
                 <div class="bouton">
                     <input type="submit" value="valider">
-                </div>          
+                </div>  
+                <div class="login-link">
+            <a href="inscription.php">inscrir</a>
+        </div>        
             </form>
         </div>
 
     </div>
-     <a href="inscription.php">inscrir</a>
+   
 </body>
 
 </html>
