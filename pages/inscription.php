@@ -38,6 +38,7 @@
                 <div class="login-link">
                     <a href="login.php">Login</a>
                 </div>
+                
             </form>
         </div>
 
