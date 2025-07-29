@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/css/style.css">
-    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
-    <script crc="../bootstrap/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="../../bootstrap/css/bootstrap.min.css">
+    <script crc="../../bootstrap/js/bootstrap.bundle.min.js"></script>
     <title>login</title>
 </head>
 <body>
