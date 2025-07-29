@@ -22,9 +22,7 @@
                 </div>
                 <div class="bouton">
                     <input type="submit" value="valider">
-                </div>
-                
-            
+                </div>          
             </form>
         </div>
 
