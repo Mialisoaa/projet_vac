@@ -1,7 +1,8 @@
 <?php
 require "../../inc/fonction.php";
 
-
-if ( connecter($nom, $motdepasse)) {
+$nom=$_POST["nom"];
+$motdepasse=$_POST["password"];
+if ( connecter($nom, $motdepasse)!=-1) {
    echo "<script>okok</script>";
 }
