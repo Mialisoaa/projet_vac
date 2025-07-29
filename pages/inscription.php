@@ -10,11 +10,12 @@
     <title>incription</title>
 </head>
 <body>
+    
     <div class="container-fluid">
-
+    
      <div class="form ">
             <form action="traitement/tinsc.php" method="post">
-               
+            <div class="title"><h1>inscription</h1></div>
                 <div>
                     <h2>Nom</h2>
                     <input type="text" name="nom"placeholder="nom">

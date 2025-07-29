@@ -7,7 +7,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #880c65, #a6c1ee);
+  background: linear-gradient(135deg, #880c65, #528df3);
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -89,6 +89,21 @@ a:hover {
     font-size: 14px;
     transition: 0.3s;
     font-weight: 500;
+  }
+  
+  .login-link a:hover {
+    background-color: #eab6e3;
+    color: #fff;
+  }
+  .title {
+    text-align: center;
+    font-size: 24px;
+    color: #880c65;
+    font-weight: bold;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f5d6f0;
+    font-family: 'Poppins', sans-serif;
   }
   
   
