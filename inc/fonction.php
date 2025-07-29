@@ -16,3 +16,20 @@ function connecter($nom, $motdepasse)
 
     return -1;
 }
+
+
+function inscription($nom, $motdepasse)
+{
+    if (empty($nom) || empty($motdepasse)) {
+        return -1;
+    }
+
+    $sql = "INSERT INTO membre (nom, mdp) VALUES ('$nom', '$motdepasse')";
+
+
+    if (mysqli_query(dbconnect(), $sql)) {
+        return mysqli_insert_id(dbconnect());
+    } else {
+        return -1;
+    }
+}
