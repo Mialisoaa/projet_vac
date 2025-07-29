@@ -20,7 +20,7 @@ function connecter($nom, $motdepasse)
 
 function inscription($nom, $motdepasse)
 {
-    if (empty($nom) || empty($motdepasse)) {
+    if (empty($nom) || empty($motdepasse)||connecter($nom, $motdepasse)!=-1) {
         return -1;
     }
 
