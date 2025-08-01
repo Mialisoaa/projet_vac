@@ -12,7 +12,6 @@
 <body>
     
     <div class="container-fluid">
-<<<<<<< HEAD
     
      <div class="form ">
             <form action="traitement/tinsc.php" method="post">
@@ -31,6 +30,7 @@
                 </div>
                 <div class="login-link">
                     <a href="login.php">Login</a>
+                    <a href="todoliste.php">commencer</a>
                 </div>
                 
             </form>
